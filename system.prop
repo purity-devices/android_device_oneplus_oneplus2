@@ -18,6 +18,9 @@ mm.enable.smoothstreaming=true
 audio.offload.buffer.size.kb=32
 tunnel.audio.encode=false
 
+# Display
+persist.sys.strictmode.disable=true
+
 
 # Bluetooth
 bluetooth.hfp.client=1
