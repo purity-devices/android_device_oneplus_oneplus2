@@ -73,6 +73,12 @@
   },
   {
     "remote": "github",
+    "repository": "DonkeyCoyote/proprietary_vendor_qcom_binaries",
+    "target_path": "vendor/qcom/binaries",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "github",
     "repository": "donkeycoyote/proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
     "revision": "android-7.1"
